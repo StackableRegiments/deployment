@@ -1,27 +1,27 @@
 <metlServers>
 	<metlServer>
 		<name>training</name>
-		<baseUrl>training.stackableregiments.com</baseUrl>
+		<baseUrl>https://training.stackableregiments.com</baseUrl>
 		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
 	</metlServer>
 	<metlServer>
 		<name>Saint Leo University</name>
-		<baseUrl>metl.saintleo.edu</baseUrl>
+		<baseUrl>https://metl.saintleo.edu</baseUrl>
 		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
 	</metlServer>
 	<metlServer>
 		<name>Saint Leo University QA</name>
-		<baseUrl>devmetl.saintleo.edu</baseUrl>
+		<baseUrl>https://devmetl.saintleo.edu</baseUrl>
 		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
 	</metlServer>
 	<metlServer>
 		<name>open.stackable</name>
-		<baseUrl>open.stackableregiments.com</baseUrl>
+		<baseUrl>https://open.stackableregiments.com</baseUrl>
 		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
 	</metlServer>
 	<metlServer>
 		<name>demo</name>
-		<baseUrl>demo.stackableregiments.com</baseUrl>
+		<baseUrl>https://demo.stackableregiments.com</baseUrl>
 		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
 	</metlServer>
 </metlServers>
