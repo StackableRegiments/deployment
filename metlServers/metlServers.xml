@@ -1,6 +1,6 @@
 <metlServers>
 	<metlServer>
-		<name>training</name>
+		<name>Saint Leo MeTL Beta</name>
 		<baseUrl>https://training.stackableregiments.com</baseUrl>
 		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
 	</metlServer>
