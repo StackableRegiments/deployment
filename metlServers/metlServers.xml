@@ -2,8 +2,9 @@
 	<metlServer>
 		<name>training</name>
 		<baseUrl>https://training.stackableregiments.com</baseUrl>
-		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
+		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
 	</metlServer>
+  <!--
 	<metlServer>
 		<name>Saint Leo University</name>
 		<baseUrl>https://metl.saintleo.edu</baseUrl>
@@ -24,4 +25,5 @@
 		<baseUrl>https://demo.stackableregiments.com</baseUrl>
 		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
 	</metlServer>
+  -->
 </metlServers>
