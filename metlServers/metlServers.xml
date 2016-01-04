@@ -1,29 +1,29 @@
 <metlServers>
-	<metlServer>
-		<name>Saint Leo MeTL Beta</name>
-		<baseUrl>https://training.stackableregiments.com</baseUrl>
-		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
-	</metlServer>
+  <metlServer>
+    <name>MeTL Training Sandbox</name>
+    <baseUrl>https://training.stackableregiments.com</baseUrl>
+    <imageUrl>https://avatars3.githubusercontent.com/u/14121932?v=3&amp;s=460</imageUrl
+  </metlServer>
+  <metlServer>
+  <name>Saint Leo MeTL Beta</name>
+  <baseUrl>https://metl.saintleo.edu</baseUrl>
+  <imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
+</metlServer>
   <!--
-	<metlServer>
-		<name>Saint Leo University</name>
-		<baseUrl>https://metl.saintleo.edu</baseUrl>
-		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
-	</metlServer>
-	<metlServer>
-		<name>Saint Leo University QA</name>
-		<baseUrl>https://devmetl.saintleo.edu</baseUrl>
-		<imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
-	</metlServer>
-	<metlServer>
-		<name>open.stackable</name>
-		<baseUrl>https://open.stackableregiments.com</baseUrl>
-		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
-	</metlServer>
-	<metlServer>
-		<name>demo</name>
-		<baseUrl>https://demo.stackableregiments.com</baseUrl>
-		<imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
-	</metlServer>
+      <metlServer>
+      <name>Saint Leo University QA</name>
+      <baseUrl>https://devmetl.saintleo.edu</baseUrl>
+      <imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
+      </metlServer>
+      <metlServer>
+      <name>open.stackable</name>
+      <baseUrl>https://open.stackableregiments.com</baseUrl>
+      <imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
+      </metlServer>
+      <metlServer>
+      <name>demo</name>
+      <baseUrl>https://demo.stackableregiments.com</baseUrl>
+      <imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
+      </metlServer>
   -->
 </metlServers>
