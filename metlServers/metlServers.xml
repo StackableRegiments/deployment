@@ -12,24 +12,6 @@
   <metlServer>
     <name>Unstable pre-release</name>
     <baseUrl>https://unstable.stackableregiments.com</baseUrl>
-    <imageUrl>https://commons.wikimedia.org/wiki/File:Road-sign-works.svg</imageUrl>
+    <imageUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Road-sign-works.svg/515px-Road-sign-works.svg.png</imageUrl>
   </metlServer>
-
-  <!--
-      <metlServer>
-      <name>Saint Leo University QA</name>
-      <baseUrl>https://devmetl.saintleo.edu</baseUrl>
-      <imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
-      </metlServer>
-      <metlServer>
-      <name>open.stackable</name>
-      <baseUrl>https://open.stackableregiments.com</baseUrl>
-      <imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
-      </metlServer>
-      <metlServer>
-      <name>demo</name>
-      <baseUrl>https://demo.stackableregiments.com</baseUrl>
-      <imageUrl>https://raw.githubusercontent.com/StackableRegiments/metl2011/pages/MeTLMeeting/SandRibbon/resources/sr-logo-large.png</imageUrl>
-      </metlServer>
-  -->
 </metlServers>
