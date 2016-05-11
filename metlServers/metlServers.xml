@@ -7,11 +7,16 @@
   <metlServer>
     <name>Saint Leo MeTL Beta</name>
     <baseUrl>https://metl.saintleo.edu</baseUrl>
-    <imageUrl>http://saintleo.edu/images/main-logo.png</imageUrl>
+    <imageUrl>http://www.saintleo.edu/images/main-logo.png</imageUrl>
   </metlServer>
   <metlServer>
     <name>Unstable pre-release</name>
     <baseUrl>https://unstable.stackableregiments.com</baseUrl>
     <imageUrl>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Road-sign-works.svg/515px-Road-sign-works.svg.png</imageUrl>
+	</metlServer>
+  <metlServer>
+    <name>Symposium</name>
+    <baseUrl>https://symposium.stackableregiments.com</baseUrl>
+		<imageUrl>http://setup.stackableregiments.com/images/metl-logo.svg</imageUrl>
   </metlServer>
 </metlServers>
